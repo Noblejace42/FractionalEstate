@@ -1,0 +1,14 @@
+{
+  "network": "sepolia",
+  "chainId": 11155111,
+  "deployedAt": "2026-02-27",
+  "contracts": {
+    "InvestorRegistry": "0x_YOUR_ADDRESS_HERE",
+    "PropertyToken": "0x_YOUR_ADDRESS_HERE",
+    "DividendDistributor": "0x_YOUR_ADDRESS_HERE",
+    "PropertyGovernance": "0x_YOUR_ADDRESS_HERE",
+    "PropertyFactory": "0x_YOUR_ADDRESS_HERE",
+    "FractionalEstate": "0x_YOUR_ADDRESS_HERE"
+  }
+}
+
