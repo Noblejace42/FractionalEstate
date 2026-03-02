@@ -1,2 +1,15 @@
+node_modules/
+.env
+dist/
+build/# Next.js
+frontend/.next/
+frontend/out/
+frontend/node_modules/
+frontend/.vercel/
+
+# Node
 **/node_modules/
+
+# Env
 **/.env
+**/.env.*
